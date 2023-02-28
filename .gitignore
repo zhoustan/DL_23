@@ -76,7 +76,7 @@ docs/_build/
 target/
 
 # IDEA
-.idea
+.idea/
 
 # Jupyter Notebook
 .ipynb_checkpoints
